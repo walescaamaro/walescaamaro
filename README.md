@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello World! 👋
 
 Olá! Meu nome é **Walesca** e sou de João Pessoa, Paraíba 🇧🇷.
 
@@ -10,33 +10,40 @@ Olá! Meu nome é **Walesca** e sou de João Pessoa, Paraíba 🇧🇷.
 ---
 
 ### 🚀 Projeto em Destaque: LuminaSaber
-Estou desenvolvendo o **LuminaSaber**, uma plataforma web voltada para estudantes da educação básica (jardim de infância ao 9º ano). O objetivo é oferecer exercícios de múltipla escolha adaptados ao ritmo de cada aluno, de forma gratuita, inclusiva e organizada.
+Estou desenvolvendo (em parceria com a Rayssa Priscila) o **LuminaSaber**, uma plataforma web gamificada voltada para estudantes da educação básica (jardim de infância ao 9º ano). O ecossistema oferece exercícios adaptados de forma gratuita, inclusiva e organizada.
 
-**Recursos principais:**
-- 📝 Exercícios de múltipla escolha por disciplina.
-- 📊 Relatórios de desempenho para incentivar a autonomia.
-- 🗒️ Canto de anotações digitais.
-- 🔍 Barra de pesquisa de conteúdos.
-- 📁 Organização de anotações em pastas.
+* **Arquitetura:** Backend em Node.js/Express (API REST) e Banco de Dados Relacional.
+* 📁 **[Repositório Principal do Projeto](https://github.com/walescaamaro/LuminaSaber)**
+* 🗄️ **[Repositório do Banco de Dados (SQLite)](https://github.com/walescaamaro/DataBase-LuminaSaber)**
+
+**Recursos implementados & planejados:**
+- 📝 Exercícios de múltipla escolha por disciplina com sistema adaptativo.
+- 📊 Relatórios dinâmicos de desempenho e foco em autonomia.
+- 🗒️ Bloco de notas digital integrado organizado por pastas.
 
 ---
 
 ### 💻 Tecnologias & Ferramentas
-Aqui estão algumas das tecnologias que utilizo nos meus estudos, estágio e projetos:
+Aqui estão as tecnologias que domino e utilizo ativamente no curso técnico, estágio e projetos:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" title="SQLite" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
 </p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walescaamaro&layout=compact&theme=dark&hide_border=true" alt="Top Langs de walescaamaro" />
 </p>
 
 ---

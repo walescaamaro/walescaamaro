@@ -14,7 +14,6 @@ Estou desenvolvendo (em parceria com a Rayssa Priscila) o **LuminaSaber**, uma p
 
 * **Arquitetura:** Backend em Node.js/Express (API REST) e Banco de Dados Relacional.
 * 📁 **[Repositório Principal do Projeto](https://github.com/walescaamaro/LuminaSaber)**
-* 🗄️ **[Repositório do Banco de Dados (SQLite)](https://github.com/walescaamaro/DataBase-LuminaSaber)**
 
 **Recursos implementados & planejados:**
 - 📝 Exercícios de múltipla escolha por disciplina com sistema adaptativo.
